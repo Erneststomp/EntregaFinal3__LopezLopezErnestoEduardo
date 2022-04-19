@@ -1,5 +1,1 @@
-# BootstrapSakuraBiomedical_LopezLopezErnestoEduardo
-# EntregaFinal2__LopezLopezErnestoEduardo
-# Entrega__SASSII_Bootstrap__LopezLopezErnestoEduardo
-# Entrega__SASSII_Bootstrap__LopezLopezErnestoEduardo
-# EntregaFinal3_LopezLopezErnestoEduardo
+# EntregaFinal_LopezLopezErnestoEduardo

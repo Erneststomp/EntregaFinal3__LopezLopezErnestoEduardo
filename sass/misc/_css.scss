@@ -93,3 +93,26 @@
         @extend .body__footer;
     }
 }
+
+.button__align{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+    margin-top: 2%;
+}
+
+.map__responsive{
+    overflow:hidden;
+    padding-bottom: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    position:relative;
+    height:0;
+}
+
+.map__responsive iframe{
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
